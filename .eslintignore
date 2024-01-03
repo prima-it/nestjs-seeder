@@ -1,0 +1,7 @@
+.eslintrc*
+*.d.ts
+tsconfig.json
+tsconfig.*.json
+.prettierrc.json
+gl-*.json
+package-lock.json
